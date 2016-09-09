@@ -1,1 +1,1 @@
-# Sistemi-Distribuiti
+# Code for distributed system exam
